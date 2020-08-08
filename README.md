@@ -9,7 +9,7 @@ Ask a home buyer to describe their dream house, and they probably won't begin wi
 # 3.Feature selection
    In feature selection, we taking importants feature to make the model perform well
 
-![alt text](C:/Users/computer/Desktop/download.jpg)
+# ![alt text](C:/Users/computer/Desktop/download.jpg)
 # 4.Modeling
 We will build two models (Random Forest Regression and Xg Boost)and evaluate their performances with MSE,MAE,RMSE,R- SQUARE metric Additionally, we will gain insights on the features that are strong predictors of house prices.
 # 5.Deployment
