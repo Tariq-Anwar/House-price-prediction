@@ -13,7 +13,7 @@ Ask a home buyer to describe their dream house, and they probably won't begin wi
 # 4.Modeling
 We will build two models (Random Forest Regression and Xg Boost)and evaluate their performances with MSE,MAE,RMSE,R- SQUARE metric Additionally, we will gain insights on the features that are strong predictors of house prices.
 # 5.Deployment
- This model deployed using flask client interface
+ This Project deployed using flask client interface
 # Conclusion
 Random Forest is the most accurate model for predicting the house price. It scored an estimated accuracy of 87%, out performing the xgboost by about 2%. Random Forest determined the overall quality of a home is by far the most important predictor. Following are the size of above grade (ground) living area and the size of total basement square footage. Surprisingly, the lot area did not rank as high as I had expected.
  
