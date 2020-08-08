@@ -7,7 +7,7 @@ Ask a home buyer to describe their dream house, and they probably won't begin wi
 # 2. Exploratory Analysis
    In exploratory analysis we describe about each features in House and selling price,Year_sold and selling price similary we doing with discreate features,continuous features and categorical features
 # 3.Feature selection
-   In feature selection, we taking importants feature to make the model perform well
+   In feature selection, we taking importants feature to make model perform well
 
 # ![alt text](C:/Users/computer/Desktop/download.jpg)
 # 4.Modeling
