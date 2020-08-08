@@ -3,13 +3,13 @@ it is a Advanced Problem of Regression which requires advanced techniques of fea
 # Description
 Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this  dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.Deployed using flask.
 # 1. Data cleaning
-   We need to preprocess the data to transform it to a useful one and also to reduce its size, so that it becomes easier to analyze.We Dealing with numerical feature,categorical features,discrete features
+   We need to preprocess the data to transform it to a useful one and also to reduce its size, so that it becomes easier to analyze.We Dealing with numerical feature,categorical features,Continuous Feature,discrete features make the data look familiar 
 # 2. Exploratory Analysis
    In exploratory analysis we describe about each features in House and selling price,Year_sold and selling price similary we doing with discreate features,continuous features and categorical features
 # 3.Feature selection
    In feature selection, we taking importants feature to make the model perform well
 
-![alt text](C:/Users/computer/Desktopdownload.jpg)
+![alt text](C:/Users/computer/Desktop/download.jpg)
 # 4.Modeling
 We will build two models (Random Forest Regression and Xg Boost)and evaluate their performances with MSE,MAE,RMSE,R- SQUARE metric Additionally, we will gain insights on the features that are strong predictors of house prices.
 # 5.Deployment
